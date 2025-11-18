@@ -13,7 +13,6 @@ Users enter clinical diagnostic data, and the app returns:
 - Percentage confidence score  
 - Clean and interactive Streamlit interface  
 
-This project is intended for **educational and research purposes** only.
 
 ---
 
