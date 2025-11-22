@@ -22,7 +22,7 @@ This app is designed for:
 ---
 
 ## 🔗 Live Demo  
-**👉 App URL:** cadapp.streamlit.app
+**👉 App URL:** https://cadapp.streamlit.app
 **👉 GitHub Repository:** https://github.com/Gershom91/ai-cad-risk-prediction
 
 ---
